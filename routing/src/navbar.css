@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:  0;
+}
+
+ul{
+    height: 30px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+li{
+
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
